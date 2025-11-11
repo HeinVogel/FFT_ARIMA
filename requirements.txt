@@ -1,0 +1,15 @@
+
+---
+
+## 2. `requirements.txt`
+
+```txt
+numpy
+pandas
+plotly
+scipy
+statsmodels
+scikit-learn
+pmdarima
+fastapi
+uvicorn
